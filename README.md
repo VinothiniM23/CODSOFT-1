@@ -17,4 +17,8 @@ Welcome to the Number Guessing Game! This GitHub repository contains a Java appl
 3. **Build and Run**: Build and run the project to execute the Number Guessing Game.
 4. **Guess the Number**: Follow the on-screen instructions to input your guesses and receive feedback.
 5. **Enjoy the Game**: Keep guessing until you correctly identify the random number.
+# Contribution Guidelines
+Contributions to this project are welcome! If you have ideas for improvements, new features, or bug fixes, follow the standard GitHub workflow: fork the repository, create a branch for your changes, and submit a pull request.
 
+# License
+This project is licensed under the MIT License.
