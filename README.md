@@ -7,4 +7,8 @@ Welcome to the Number Guessing Game! This GitHub repository contains a Java appl
 *  **Feedback System**: Gives immediate feedback on whether the guess is correct, too high, or too low.
 *  **Dynamic Difficulty**: Adjusts to the user's guesses, making the game challenging and enjoyable.
 *  **Game Statistics**: Tracks the number of tries taken to guess the correct number.
+# Technologies Used
+*  **Java**: The core programming language used for implementing the number guessing game logic.
+*  **NetBeans IDE 20**: The integrated development environment employed for Java application development.
+*  **GitHub**: This repository is hosted on GitHub, providing version control and collaboration features.
 
